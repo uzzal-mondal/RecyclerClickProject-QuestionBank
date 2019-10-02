@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="story_content">
+        <item>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit
+            sed do eiusmod tempor incididunt ut\n labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi\n
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in\n
+            voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n Excepteur sint
+            occaecat cupidatat non proident,sunt in \n culpa qui officia deserunt mollit anim id est laborum.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit,\n\n
+            sed do eiusmod tempor incididunt ut\n labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi\n
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in\n
+            voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n Excepteur sint
+            occaecat cupidatat non proident,sunt in \n culpa qui officia deserunt mollit anim id est laborum.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit,\n\n
+            sed do eiusmod tempor incididunt ut\n labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi\n
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in\n
+            voluptate velit esse cillum dolore eu fugiat nulla pariatur.\n\n Excepteur sint
+            occaecat cupidatat non proident,sunt in \n culpa qui officia deserunt mollit anim id est laborum.\n
+        </item>
+        <item>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+            voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+            occaecat cupidatat non proident,sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </item>
+        <item>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+            voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+            occaecat cupidatat non proident,sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </item>
+        <item>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+            voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+            occaecat cupidatat non proident,sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </item>
+        <item>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+            voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+            occaecat cupidatat non proident,sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </item>
+        <item>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+            voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+            occaecat cupidatat non proident,sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </item>
+        <item>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+            voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+            occaecat cupidatat non proident,sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </item>
+        <item>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+            voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+            occaecat cupidatat non proident,sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </item>
+        <item>
+
+
+ ১. নিচের কোনটি ফরাসি শব্দ?\n
+ক) হরতাল\n
+খ) পাদ্রি\n
+গ) তোপ\n
+ঘ) কুপন\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+
+            <!--new question-->
+২. কোনটি দেশি শব্দের উদাহরণ?\n
+ক) লুঙ্গি\n
+খ) খোকা\n
+গ) সাবেক\n
+ঘ) সম্রাট\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+৩. মানুষের কন্ঠ নিঃসৃত বাক্ সংকেতের সংগঠনকে কী বলে?\n
+ক) ধ্বনি\n
+খ) শব্দ\n
+গ) বাক্য\n
+ঘ) ভাষা\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+৪. কোনটি আরবি শব্দ?\n
+ক) গোসল\n
+খ) রোযা\n
+গ) বেহেশত\n
+ঘ) নামায\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৫. কোনটি প্রশাসনিক শব্দ?\n
+ক) নালিশ\n
+খ) নমুনা\n
+গ) কলেজ\n
+ঘ) রপ্তানি\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৬. কোন ভাষা হতে বাংলা ভাষার জন্ম হয়?\n
+ক) পালি\n
+খ) হিন্দি\n
+গ) উড়িয়া\n
+ঘ) বঙ্গকামরূপী\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+৭. বাংলাদেশ ছাড়া আর কোন অঞ্চলের মানুষের সর্বজনীন ভাষা বাংলা ভাষা?\n
+ক) আসাম\n
+খ) পশ্চিমবঙ্গ\n
+গ) গুজরাট\n
+ঘ) উত্তর প্রদেশ\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+৮. গুজরাটি শব্দের উদাহরণ কোনটি?\n
+ক) হরতাল\n
+খ) লুঙ্গি\n
+গ) রিক্সা\n
+ঘ) চাকু\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৯. প্রাতিপাদিক কী?\n
+ক) সাধিত শব্দ\n
+খ) বিভক্তিযুক্ত শব্দ\n
+গ) বিভক্তিহীন নামশব্দ\n
+ঘ) উপসর্গযুক্ত শব্দ\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+১০. নিচের কোনগুলো পর্তুগিজ শব্দ?\n
+ক) আলমারি, গুদাম\n
+খ) চাহিদা, শিখ\n
+গ) চা, চিনি\n
+ঘ) কুপন, ডিপো\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+১১. ভাষা কী?\n
+ক) উচ্চারণের প্রতীক\n
+খ) কন্ঠের উচ্চারণ\n
+গ) ভাব প্রকাশের মাধ্যম\n
+ঘ) ধ্বনির সমষ্টি\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+১২. পাউরুটি শব্দটি কোন ভাষার?\n
+ক) পর্তুগিজ\n
+খ) ফরাসি\n
+গ) গুজরাটি\n
+ঘ) পাঞ্জাবি\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+১৩. কোনটি ফারসি শব্দ?\n
+ক) যাকাত\n
+খ) উকিল\n
+গ) পয়গম্বর\n
+ঘ) চশমা\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+১৪. ডাক্তারখানা মিশ্র শব্দটি কোন ভাষার শব্দ নিয়ে গঠিত?\n
+ক) ইংরেজি-ফারসি\n
+খ) ইংরেজি-আরবি\n
+গ) ইংরেজি-সংস্কৃত\n
+ঘ) বাংলা-আরবি\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+১৫. নিচের কোনটি তৎসম শব্দ?\n
+ক) চন্দ্র/ধর্ম\n
+খ) গিন্নী\n
+গ) ডিঙ্গা\n
+ঘ) ঈমান\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+১৬. সংস্কৃত ভাষা থেকে আগত অপরিবর্তনীয় শব্দসমূহের নাম কী?\n
+ক) তৎসম শব্দ\n
+খ) তদ্ভব শব্দ\n
+গ) অর্ধতৎসম শব্দ\n
+ঘ) দেশি শব্দ\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+১৭. বক্তৃতায় ভাষার কোন রীতির ব্যবহার করা বাঞ্ছনীয়?\n
+ক) সাধু\n
+খ) চলিত\n
+গ) কথ্য বাংলা\n
+ঘ) আঞ্চলিক\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+১৮. কোনটি দেশি শব্দ নয়?\n
+ক) পেট\n
+খ) চাঙারী\n
+গ) ঘর\n
+ঘ) ঠোঙা\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+১৯. কোনটি ধর্মসংক্রান্ত ফারসি শব্দ?\n
+ক) কুরআন\n
+খ) রোযা/যাকাত\n
+গ) নালিশ\n
+ঘ) ঈদ\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+২০. বাংলা ভাষা ও সাহিত্যের মধ্যযুগের প্রথম নিদর্শন কোনটি?\n
+ক) মধুমালতী\n
+খ) সিকান্দারনামা\n
+গ) শ্রীকৃষ্ণকীর্তন\n
+ঘ) বৈষ্ণব পদাবলি\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+২১. ভাষাভাষী জনসংখ্যার দিক থেকে পৃথিবীতে বর্তমানে বাংলা ভাষার স্থান কততম\n
+ক) চতুর্থ\n
+খ) পঞ্চম\n
+গ) ষষ্ঠ\n
+ঘ) সপ্তম\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+২২. বাংলা ভাষা ও সাহিত্যের যুগবিভাগ কয়টি?\n
+ক) ৩টি\n
+খ) ৪টি\n
+গ) ৫টি\n
+ঘ) ৬টি\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+২৩. কোনটি মিশ্র শব্দ নয়?\n
+ক) পকেটমার\n
+খ) চৌ-হদ্দী\n
+গ) খ্রিষ্টাব্দ\n
+ঘ) হেডমাস্টার\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+২৪. বাংলা ভাষার কোন রীতি নাটকের সংলাপ ও বক্তৃতার অনুপযোগী?\n
+ক) চলিত রীতি\n
+খ) কথ্য রীতি\n
+গ) সাধুরীতি\n
+ঘ) আঞ্চলিক রীতি\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+২৫. কোনটি খাঁটি বাংলা শব্দের উদাহরণ?\n
+ক) ডাগর\n
+খ) হাত\n
+গ) কুলা\n
+ঘ) সবগুলো\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+২৬. কোনটি প্রশাসনিক ও সাংস্কৃতিক ফারসি শব্দ?\n
+ক) দফতর, দস্তখত\n
+খ) জান্নাত, গোসল\n
+গ) আমদানি, রপ্তানি\n
+ঘ) আদালত, কানুন\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+২৭. সাধুভাষার বৈশিষ্ট্য কোনটি?\n
+ক) গুরুগম্ভীর\n
+খ) গুরুচন্ডালী\n
+গ) অবোধ্য\n
+ঘ) দুর্বোধ্য\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+২৮. চলিত ভাষায় ক্রিয়াপদ ও সর্বনাম পদ সংকুচিত হয় - এ কথাটি -\n
+ক) ভিত্তিহীন\n
+খ) অবাস্তব\n
+গ) সম্পূর্ণ সত্য\n
+ঘ) আংশিক সত্য\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+২৯. বাংলা ভাষার কোন শব্দগুলোকে খাঁটি বাংলা শব্দও বলা হয়?\n
+ক) তৎসম\n
+খ) তদ্ভব\n
+গ) অর্ধ তৎসম\n
+ঘ) দেশি\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+৩০. তামিল ভাষার শব্দ কোনটি?\n
+ক) পেট\n
+খ) কুলা\n
+গ) চুলা\n
+ঘ) কুড়ি\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৩১. বাংলা ভাষার চলিত রীতির প্রবর্তন করেন কে?\n
+ক) প্যারীচাঁদ মিত্র\n
+খ) গিরীশচন্দ্র সেন\n
+গ) প্রমথ চৌধুরী\n
+ঘ) রবীন্দ্রনাথ ঠাকুর\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৩২. লুঙ্গি কোন ভাষার শব্দ?\n
+ক) গুজরাটি\n
+খ) পাঞ্জাবি\n
+গ) তুর্কি\n
+ঘ) জাপানি\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+৩৩. নিচের কোন ব্যক্তি চলিত ভাষার ক্ষেত্রে অনন্য অবদান রেখেছেন?\n
+ক) রবীন্দ্রনাথ ঠাকুর\n
+খ) কাজী নজরুল ইসলাম\n
+গ) প্রমথ চৌধুরী\n
+ঘ) ঈশ্বরচন্দ্র বিদ্যাসাগর\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৩৪. আলপিন কোন ভাষার শব্দ?\n
+ক) পর্তুগিজ\n
+খ) ওলন্দাজ\n
+গ) গুজরাটি\n
+ঘ) তুর্কি\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৩৫. ভাষা কিসের দ্বারা সৃষ্ট হয়?\n
+ক) মনের সাহায্যে\n
+খ) অঙ্গ-প্রত্যঙ্গের সাহায্যে\n
+গ) ঠোঁটের সাহায্যে\n
+ঘ) বাগযন্ত্রের সাহায্যে\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+৩৬. Oxygen - এর ভাবানুবাদমূলক প্রতিশব্দ কোনটি?\n
+ক) উদযান\n
+খ) সহযান\n
+গ) অম্লজান\n
+ঘ) অক্সিজেন\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৩৭. বিশুদ্ধ চীরত ভাষা কোনটি?\n
+ক) সামনে একটা বাঁশ বাগান পড়ল\n
+খ) সামনে একটি বাঁশ বাগান পড়ল\n
+গ) সামনে একটি বাঁশ বাগান পড়িল\n
+ঘ) সম্মুখে একটি বাঁশ বাগান পড়ল\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+৩৮. কোনটি পারিভাষিক শব্দ?\n
+ক) ইনসান\n
+খ) টোপর\n
+গ) বিশ্ববিদ্যালয়\n
+ঘ) ডাক্তারখানা\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৩৯. চানাচুর কোন দেশি শব্দ?\n
+ক) চীনা\n
+খ) হিন্দি\n
+গ) আরবি\n
+ঘ) ফারসি\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+৪০. মধ্যযুগে বাংলা লেখ্য সাধুরীতির সামান্য নমুনা পাওয়া যায় -\n
+ক) কাব্যসাহিত্যে\n
+খ) দলিল-দস্তাবেজে\n
+গ) পুঁথি সাহিত্যে\n
+ঘ) চিঠিপত্রে\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+৪১. বাংলা লেখ্য সাধুরীতির প্রকৃত বাংলা গদ্যরূপ কখন বিকাশ লাভ করে?\n
+ক) মধ্যযুগের শুরুতে\n
+খ) মধ্যযুগের মাঝামাঝি\n
+গ) ইংরেজদের আগমনের পূর্বে\n
+ঘ) ইংরেজদের আগমনের পরে\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+৪২. ভাষার কোন রীতি তদ্ভব শব্দবহুল?\n
+ক) সাধুরীতি\n
+খ) আঞ্চলিক কথ্য রীতি\n
+গ) সাধু এবং চলিত উভয় রীতি\n
+ঘ) চলিত রীতি\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+৪৩. সাধু ও চলিত রীতি বাংলা ভাষার কোন রূপে রয়েছে?\n
+ক) লেখ্য\n
+খ) কথ্য\n
+গ) আঞ্চলিক\n
+ঘ) উপভাষা\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৪৪. অনার্য জাতির ব্যবহৃত শব্দকে কী শব্দ বলে?\n
+ক) দেশি শব্দ\n
+খ) বিদেশি শব্দ\n
+গ) তৎসম শব্দ\n
+ঘ) বাংলা শব্দ\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৪৫. কোন শব্দগুচ্ছ সাধুভাষার উদাহরণ?\n
+ক) তুলা, সহিত\n
+খ) জুতো, মাথা\n
+গ) পড়িল, দেখে\n
+ঘ) বুনো, তুলো\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৪৬. বেহেস্ত কোন ভাষার শব্দ?\n
+ক) বিদেশি\n
+খ) আরবি\n
+গ) ফারসি\n
+ঘ) পর্তুগিজ\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৪৭. কিসের ভেদে ভাষার পার্থক্য ও পরিবর্তন ঘটে?\n
+ক) দেশ ও কালভেদে\n
+খ) দেশ, কাল ও ব্যক্তিভেদে\n
+গ) কাল, পরিবেশ ও ব্যক্তিভেদে\n
+ঘ) দেশ, কাল ও পরিবেশভেদে\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+৪৮. আরবি ভাষার শব্দ নিচের কোনটি?\n
+ক) দরবার\n
+খ) দৌলত\n
+গ) দোয়াত\n
+ঘ) দফতর\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৪৯. দারোগা  শব্দটি কোন ভাষা থেকে বাংলা ভাষায় এসেছে?\n
+ক) ওলন্দাজ\n
+খ) তুর্কি\n
+গ) ফরাসি\n
+ঘ) গুজরাটি\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+৫০. সাধুভাষা কোথায় অনুপযোগী?\n
+ক) কবিতার পঙক্তিতে\n
+খ) গানের কলিতে\n
+গ) গল্পের বর্ণনায়\n
+ঘ) নাটকের সংলাপে\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+            <!--next Question -->
+
+৫১. বাকি কোন ভাষার শব্দ?\n
+ক) ফারসি\n
+খ) ফরাসি\n
+গ) আরবি\n
+ঘ) পর্তুগিজ\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৫২. নিচের কোন উক্তিটি চলিত ভাষা সম্পর্কে প্রযোজ্য নয়?\n
+ক) চলিত ভাষা কৃত্রিমতাবর্জিত\n
+খ) চলিত ভাষা গুরুগম্ভীর\n
+গ) চলিত ভাষা বক্তৃতার উপযোগী\n
+ঘ) চলিত ভাষায় তৎসম শব্দের ব্যবহার কম\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+
+৫৩. নিচের কোন উক্তিটি চলিত ভাষার ক্ষেত্রে প্রযোজ্য নয়?\n
+ক) চলিত ভাষা কৃত্রিমতা বর্জিত\n
+খ) চলিত ভাষা গুরুগম্ভীর\n
+গ) চলিত ভাষা বক্তৃতার উপযোগী\n
+ঘ) চলিত ভাষার তৎসম ব্যবহার কম\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+৫৪. বক্তৃতা ও নাটকের সংলাপের জন্য কোন ভাষা বেশি উপযোগী?\n
+ক) চলিত\n
+খ) সাধু\n
+গ) আঞ্চলিক\n
+ঘ) মিশ্র\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৫৫. চন্দ্র কোন শব্দের উদাহরণ?\n
+ক) তৎসম\n
+খ) তদ্ভব\n
+গ) দেশি\n
+ঘ) বিদেশি\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৫৬. কোনটি বিদেশি শব্দ নয়?\n
+ক) পত্র\n
+খ) দোয়াত\n
+গ) কলেজ\n
+ঘ) আইন\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+৫৭. রেস্তোরাঁ  কোন ভাষার শব্দ?\n
+ক) ইংরেজি\n
+খ) জাপানি\n
+গ) ওলন্দাজ\n
+ঘ) ফরাসি\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+৫৮. বাংলা ভাষায় প্রচলিত বিদেশি শব্দের ভাবানুবাদমূলক প্রতিশব্দকে কী বলে?\n
+ক) অপিনিহিতি\n
+খ) পারিভাষিক শব্দ\n
+গ) রূঢ়ি শব্দ\n
+ঘ) তৎসম শব্দ\n\n
+সঠিক উত্তর: (খ)\n\n
+
+৫৯. কোনটি অর্ধ-তৎসম শব্দ?\n
+ক) সূর্য\n
+খ) সুনাম\n
+গ) জবান\n
+ঘ) জ্যোছনা\n\n
+সঠিক উত্তর: (ঘ)\n\n
+
+৬০. বাংলা ভাষায় চলিত রীতির বিশেষ বৈশিষ্ট্য কোনটি?\n
+ক) আভিজাত্যপূর্ণ\n
+খ) পদবিন্যাস সুনির্দিষ্ট\n
+গ) কৃত্রিমতাবর্জিত\n
+ঘ) কাঠামো অপরিবর্তনীয়\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৬১. চশমা কোন ভাষার শব্দ?\n
+ক) আরবি\n
+খ) ফারসি\n
+গ) পর্তুগিজ\n
+ঘ) ওলন্দাজ\n\n
+সঠিক উত্তর: (খ)\n\n\n
+৬২. মনের ভাব প্রকাশের প্রধান বাহন কোনটি?\n
+ক) ভাষা\n
+খ) চিত্র\n
+গ) ইঙ্গিত\n
+ঘ) আচরণ\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৬৩. বর্তমানে পৃথিবীতে ভাষা প্রচলিত আছে -\n
+ক) দুই হাজার\n
+খ) পাঁচ হাজারের ওপর\n
+গ) সাড়ে তিন হাজারের ওপর\n
+ঘ) সাড়ে সাত হাজারের ওপর\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৬৪. ক্ষুদ্র ক্ষুদ্র অঞ্চলের জনগণ যে ভাষায় কথা বলে তার নাম কী?\n
+ক) সাধু ভাষা\n
+খ) চলিত ভাষা\n
+গ) উপভাষা\n
+ঘ) মৌলিক ভাষা\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৬৫. কোনটি ইংরেজি শব্দ নয়?\n
+ক) ব্যাগ\n
+খ) অফিস\n
+গ) ফুটবল\n
+ঘ) বাদশাহ\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+৬৬. হরতন, রুইতন শব্দগুলো কোন ভাষার শব্দ?\n
+ক) ওলন্দাজ\n
+খ) পর্তুগিজ\n
+গ) ফরাসি\n
+ঘ) জাপানি\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৬৭. চলিত রীতির উদাহরণ কোনটি?\n
+ক) বন্য\n
+খ) শুকনো\n
+গ) তুলা\n
+ঘ) শুষ্ক\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+৬৮. তৎসম শব্দ কোনগুলো?\n
+ক) পত্র, কেষ্ট, ডাব, সমুদ্র\n
+খ) টোপর, বসুন্ধরা, নক্ষত্র, অনল\n
+গ) আকাশ, বৃক্ষ, ধর্ম, মস্তক\n
+ঘ) সূর্য, চন্দ্র, সাপ, গিন্নী\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৬৯. রাজা-বাদশা (তৎসম + ফারসি) -�\n
+ক) ফারসি শব্দ\n
+খ) ইংরেজি শব্দ\n
+গ) আরবি শব্দ\n
+ঘ) মিশ্র শব্দ\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+৭০. অশ্ব শব্দটি কোন শব্দ?\n
+ক) পারিভাষিক শব্দ\n
+খ) যৌগিক শব্দ\n
+গ) তৎসম শব্দ\n
+ঘ) তদ্ভব শব্দ\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৭১. ডাক্তারখানা মিশ্র শব্দটি কোন কোন ভাষার শব্দ নিয়ে গঠিত?\n
+ক) ইংরেজি + আরবি\n
+খ) ইংরেজি + ফারসি\n
+গ) ইংরেজি + বাংলা\n
+ঘ) ইংরেজি + হিন্দি\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৭২. নিচের কোনটি মুন্ডারী ভাষার শব্দ?\n
+ক) চাকু\n
+খ) চিনি\n
+গ) চুলা\n
+ঘ) চাকর\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৭৩. বিদেশি এবং তদ্ভব শব্দের বানানে কোন বর্ণের ব্যবহার পাওয়া যায় না?\n
+ক) শ\n
+খ) ষ\n
+গ) স\n
+ঘ) হ\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+৭৪. আঞ্চলিক ভাষার অপর নাম কী?\n
+ক) কথ্যভাষা\n
+খ) উপভাষা\n
+গ) সাধুভাষা\n
+ঘ) চলিত ভাষা\n\n
+সঠিক উত্তর: (খ)\n\n\n
+
+৭৫. চলিত রীতির শব্দ কোনটি?\n
+ক) তুলা\n
+খ) শুকনা\n
+গ) তুলো\n
+ঘ) পড়িল\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৭৬. সংস্কৃত চর্মকার শব্দটির তদ্ভব চামার এর প্রাকৃত রূপ কোনটি?\n
+ক) চম্মকার\n
+খ) চম্মকর\n
+গ) চম্মআর\n
+ঘ) চম্মার\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৭৭. পকেটমার শব্দে কোন কোন ভাষার শব্দ রয়েছে?\n
+ক) ইংরেজি+ফার্সি\n
+খ) ইংরেজি+তৎসম\n
+গ) ইংরেজি+বাংলা\n
+ঘ) ইংরেজি+আরবি\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৭৮. এক অক্ষর বিশিষ্ট সব সময় -\n
+ক) হ্রস্ব হয়\n
+খ) হ্রস্ব হয় না\n
+গ) দীর্ঘ হয়\n
+ঘ) দীর্ঘ হয় না\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৭৯. উপভাষার আর এক নাম কী?\n
+ক) দেশীয় ভাষা\n
+খ) মূল ভাষা\n
+গ) আঞ্চলিক ভাষা\n
+ঘ) বাংলা ভাষা\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৮০. কোনটি অর্ধ-তৎসম শব্দের উদাহরণ?\n
+ক) কুচ্ছিত\n
+খ) ভবন\n
+গ) মনুষ্য\n
+ঘ) বৈষ্ণব\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৮১. চাবি কোন ভাষা থেকে আগত শব্দ?\n
+ক) ওলন্দাজ\n
+খ) ফারসি\n
+গ) গুজরাটি\n
+ঘ) পর্তুগিজ\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+৮২. হাট-বাজার কোন জাতীয় মিশ্র শব্দ?\n
+ক) বাংলা + ইংরেজি\n
+খ) ইংরেজি + বাংলা\n
+গ) তৎসম + ফারসি\n
+ঘ) বাংলা + ফারসি\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+৮৩. পুল পেরিয়ে সামনে একটা বাঁশ বাগান পড়ল। - কোন রীতির বাক্য?\n
+ক) চলিত রীতি\n
+খ) সাধু রীতি\n
+গ) আঞ্চলিক কথ্য রীতি\n
+ঘ) প্রমিত রীতি\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৮৪. কোন গুচ্ছের সব কয়টি শব্দ তৎসম?\n
+ক) পত্র, কেস্ট, ডাব, সমুদ্র\n
+খ) টোপর, বসুন্ধরা, নক্ষত্র, অনল\n
+গ) বৃক্ষ, ধর্ম, মস্তক, পাত্র\n
+ঘ) সূর্য, চন্দ্র, সাপ, গিন্নি\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৮৫. চলিত ভাষারীতির ক্ষেত্রে কোন বৈশিষ্ট্য প্রযোজ্য?\n
+ক) গুরুগম্ভীর\n
+খ) কৃত্রিম\n
+গ) পরিবর্তনশীল\n
+ঘ) তৎসম শব্দবহুল\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৮৬. হারিকিরি শব্দের অর্থ -\n
+ক) হারানো\n
+খ) রিক্সা\n
+গ) আত্মহত্যা\n
+ঘ) আত্মরক্ষা\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৮৭. কথা-বার্তা, বক্তৃতা ও নাটকের সংলাপের জন্য কোন ভাষা উপযোগী?\n
+ক) চলিত\n
+খ) সাধু\n
+গ) মিশ্র\n
+ঘ) উপজাতীয়\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৮৮. সচিব কোন ধরনের শব্দ?\n
+ক) পারিভাষিক\n
+খ) মিশ্র\n
+গ) তদ্ভব\n
+ঘ) তৎসম\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৮৯. সাধু ও চলিত ভাষার মূল পার্থক্য কোন পদে বেশি দেখা যায়?\n
+ক) বিশেষ্য ও বিশেষণ\n
+খ) ক্রিয়া ও সর্বনাম\n
+গ) বিশেষ্য ও ক্রিয়া\n
+ঘ) বিশেষণ ও ক্রিয়া\n
+সঠিক উত্তর: (খ)\n\n\n
+
+৯০. নিচের শব্দগুলোর মধ্যে কোনটি ইংরেজি শব্দ?\n
+ক) কিতাব\n
+খ) পেনসিল\n
+গ) হাকিম\n
+ঘ) আনারস\n
+সঠিক উত্তর: (খ)\n\n\n
+
+৯১. নিচের কোনটি চলিত ভাষার নিজস্ব বৈশিষ্ট্য?\n
+ক) তৎসম শব্দবহুল\n
+খ) অপরিবর্তনীয়\n
+গ) পদবিন্যাস সুনিয়ন্ত্রিত\n
+ঘ) তদ্ভব শব্দবহুল\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+৯২. পারিভাষিক শব্দ নিচের কোনটি?\n
+ক) তোপ\n
+খ) চাকর\n
+গ) নথি\n
+ঘ) ফুটবল\n\n
+সঠিক উত্তর: (গ)\n\n
+
+৯৩. হাত শব্দটি কোন শ্রেণির?\n
+ক) দেশি\n
+খ) তৎসম\n
+গ) তদ্ভব\n
+ঘ) বিদেশি\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৯৪. আফিম কোন ভাষার শব্দ?\n
+ক) ইংরেজি\n
+খ) ফারসি\n
+গ) তুর্কি\n
+ঘ) পর্তুগিজ\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+৯৫. ভাষার কোন রীতি তদ্ভব শব্দ বহুল?\n
+ক) সাধু রীতি\n
+খ) আঞ্চলিক কথ্য রীতি\n
+গ) সাধু এবং চলিত উভয় রীতি\n
+ঘ) চলিত রীতি\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+৯৬. চাহিদা শব্দটি কোন ভাষা থেকে নেওয়া হয়েছে?\n
+ক) পর্তুগিজ\n
+খ) চীনা\n
+গ) পাঞ্জাবি\n
+ঘ) তুর্কি\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৯৭. কোনটি তদ্ভব শব্দ?\n
+ক) কুলা\n
+খ) চাবি\n
+গ) চাকর\n
+ঘ) চামার\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+৯৮. ভাষার কোন রীতিতে বৈচিত্র‌্য লক্ষ করা যায়?\n
+ক) সাধুরীতি\n
+খ) চলিত রীতি\n
+গ) আঞ্চলিক রীতি\n
+ঘ) প্রমিত রীতি\n\n
+সঠিক উত্তর: (গ)\n\n\n
+
+৯৯. সাহিত্যের একমাত্র কোন মাধ্যমটিতে ভাষারীতির মিশ্রণ দূষণীয় নয়?\n
+ক) উপন্যাসে\n
+খ) নাটকে\n
+গ) গল্পে\n
+ঘ) কবিতায়\n\n
+সঠিক উত্তর: (ঘ)\n\n\n
+
+১০০. গুরুচন্ডালী দোষ কাকে বলে?\n
+ক) সাধু ও চলিত রীতির মিশ্রণকে\n
+খ) চলিত ও আঞ্চলিক রীতির মিশ্রণকে\n
+গ) সাধু ও আঞ্চলিক রীতির মিশ্রণকে\n
+ঘ) চলিত ও উপভাষার মিশ্রণকে\n\n
+সঠিক উত্তর: (ক)\n\n\n
+
+
+
+
+        </item>
+    </string-array>
+</resources>

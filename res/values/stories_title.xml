@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stories_title">
+        <item>6th Teacher Question</item>
+        <item>7th Teacher Question</item>
+        <item>8th Teacher Question</item>
+        <item>9th Teacher Question </item>
+        <item>10th Teacher Question</item>
+        <item>11th Teacher Question</item>
+        <item>12th Teacher Question</item>
+        <item>13th Teacher Question</item>
+        <item>Question Bank</item>
+    </string-array>
+</resources>
